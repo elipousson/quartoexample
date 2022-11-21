@@ -1,0 +1,7 @@
+---
+title: "Class Resource 1"
+date: 2022-11-21
+author: Eli Pousson
+---
+
+This is another example of a resource.
