@@ -7,17 +7,24 @@
     "text": "This is another example of a resource."
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site"
-  },
-  {
     "objectID": "resources/resources.html",
     "href": "resources/resources.html",
     "title": "Resources",
     "section": "",
     "text": "Here are some resources!"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "quartoexample",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
   }
 ]
