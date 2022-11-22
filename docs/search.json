@@ -5,5 +5,19 @@
     "title": "Class Resource 1",
     "section": "",
     "text": "This is another example of a resource."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "resources/resources.html",
+    "href": "resources/resources.html",
+    "title": "Resources",
+    "section": "",
+    "text": "Here are some resources!"
   }
 ]
